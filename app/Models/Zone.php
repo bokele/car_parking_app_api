@@ -5,9 +5,9 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Vehicle extends Model
+class Zone extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['user_id', 'plate_number'];
+    protected $fillable = ['name', 'price_per_hour'];
 }
