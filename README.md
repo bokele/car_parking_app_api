@@ -20,4 +20,4 @@ Let's just quickly run through the features that our users would be able to do, 
 
 > In this application, we will skip the actual payments for parking, because there are so many different ways to pay, depending on the country, so that could be a separate very long course, in the future.
 
-This project is a tutorial from [https://laraveldaily.com/](LaravelDaily)
+This project is a tutorial from [LaravelDaily](https://laraveldaily.com/)
